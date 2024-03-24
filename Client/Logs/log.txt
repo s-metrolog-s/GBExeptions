@@ -1,0 +1,432 @@
+мар. 19, 2024 10:55:48 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 19, 2024 10:55:48 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 19, 2024 10:55:59 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выход из программы
+мар. 20, 2024 7:13:07 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 20, 2024 7:13:07 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 20, 2024 7:13:21 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 20, 2024 7:13:21 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 20, 2024 7:13:25 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 20, 2024 7:13:25 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 +79998887766 М
+мар. 20, 2024 7:13:34 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 +79998887766 М
+мар. 20, 2024 7:13:41 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыть базу данных
+мар. 20, 2024 7:15:17 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 20, 2024 7:15:17 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 20, 2024 7:15:22 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 20, 2024 7:15:22 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.1990 +79998887766
+мар. 20, 2024 7:15:22 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 +79998887766
+мар. 21, 2024 6:18:29 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:18:29 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:18:36 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:18:36 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.1990 +79998887766
+мар. 21, 2024 6:27:09 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:27:09 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:27:14 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:27:40 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:27:40 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:27:44 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:29:03 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:29:03 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:29:08 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:29:49 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:29:49 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:29:53 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:29:53 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.199 79998887766 m
+мар. 21, 2024 6:30:58 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:30:58 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:31:02 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:31:02 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.199 79998887766 m
+мар. 21, 2024 6:31:16 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 21, 2024 6:47:07 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:47:07 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:47:11 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:47:11 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 21, 2024 6:47:17 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 21, 2024 6:47:34 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:47:34 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:47:43 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:47:43 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 51.01.1990 79998887766 m
+мар. 21, 2024 6:47:54 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 21, 2024 6:48:47 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:48:47 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:48:51 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:48:51 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 51.01.1990 79998887766 m
+мар. 21, 2024 6:49:12 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:49:12 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:49:16 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:49:53 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:49:53 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:49:57 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:49:57 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 51.01.1990 79998887766 m
+мар. 21, 2024 6:50:03 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 21, 2024 6:50:09 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 21, 2024 6:50:15 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:50:15 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:50:18 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:51:46 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:51:46 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:51:51 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:51:51 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 51.01.1990 79998887766 m
+мар. 21, 2024 6:52:24 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:52:24 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:52:26 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:52:27 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.51.1990 79998887766 m
+мар. 21, 2024 6:52:54 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:52:54 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:52:58 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:52:58 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.2990 79998887766 m
+мар. 21, 2024 6:53:11 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:53:11 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:53:14 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:53:14 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.199 79998887766 m
+мар. 21, 2024 6:57:26 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:57:26 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:57:31 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:57:31 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.199 +79998887766 m
+мар. 21, 2024 6:57:41 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:57:41 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:57:44 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 6:57:44 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 +79998887766 m
+мар. 21, 2024 6:57:59 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 21, 2024 6:58:14 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 6:58:14 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 6:58:17 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 7:09:29 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 7:09:29 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 7:09:32 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 7:09:32 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 21, 2024 7:21:09 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 7:21:09 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 7:21:13 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 7:21:13 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 21, 2024 7:21:18 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 7:21:18 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 21, 2024 7:23:04 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 21, 2024 7:23:04 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 21, 2024 7:23:07 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 7:23:07 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 21, 2024 7:23:11 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 7:23:11 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 21, 2024 7:23:18 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 21, 2024 7:23:22 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 21, 2024 7:23:22 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:34:07 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:34:07 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:34:14 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:34:14 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:34:22 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 24, 2024 6:34:26 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 6:37:17 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:37:17 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:37:20 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:37:20 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:38:22 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 6:39:19 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:39:19 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:39:22 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:39:22 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:39:25 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 6:40:11 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:40:11 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:40:14 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:40:14 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:40:17 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 6:40:31 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:40:31 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:40:34 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:40:34 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:40:37 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:40:46 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:40:46 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:40:51 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 6:42:01 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:42:01 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:48:27 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:48:27 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:48:32 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:48:37 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:49:30 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Петров Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:49:37 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 6:54:16 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:54:16 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:55:27 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:55:27 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 6:55:29 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:55:42 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:55:46 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 6:55:58 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Петров Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 6:56:05 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 24, 2024 6:56:10 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 6:59:01 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 6:59:01 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:07:40 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:07:40 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:07:45 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 7:07:54 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 7:07:59 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 7:08:07 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Петров Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 7:08:12 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 24, 2024 7:08:16 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 7:10:03 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:10:03 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:10:40 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:10:40 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:10:51 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 7:10:54 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Петров Иван Иванович 01.01.1990 79998887766
+мар. 24, 2024 7:11:05 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 24, 2024 7:11:13 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 7:11:17 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Петров Иван Иванович 01.01.1990 79998887766 m df
+мар. 24, 2024 7:11:34 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 7:11:38 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Петров Иван Иванович 01.01.1990 79998887766 g
+мар. 24, 2024 7:11:52 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Петров Иван Иванович 01.01.1990 7999888776 m
+мар. 24, 2024 7:13:52 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 7:14:18 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Иванов Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 7:14:30 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
+мар. 24, 2024 7:17:28 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:17:28 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:17:32 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из командной строки
+мар. 24, 2024 7:17:34 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Внесены данные: Петров Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 7:17:41 PM org.example.ExceptionsFinalTask.View.ConsoleInputView start
+INFO: Не успешная попытка сохранения данных Петров Иван Иванович 01.01.1990 79998887766 m
+мар. 24, 2024 7:47:36 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:47:36 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:47:40 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из файла
+мар. 24, 2024 7:48:25 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:48:25 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:48:28 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из файла
+мар. 24, 2024 7:50:02 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:50:02 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:50:06 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из файла
+мар. 24, 2024 7:52:02 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:52:02 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:52:05 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из файла
+мар. 24, 2024 7:52:16 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 7:52:16 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 7:52:20 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из файла
+мар. 24, 2024 8:04:51 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 8:04:51 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 8:04:54 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из файла
+мар. 24, 2024 8:04:54 PM org.example.ExceptionsFinalTask.View.FileInputView start
+INFO: Не успешная попытка загрузки данных
+мар. 24, 2024 8:04:54 PM org.example.ExceptionsFinalTask.View.FileInputView start
+INFO: Внесены данные: 
+мар. 24, 2024 8:04:58 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 24, 2024 8:07:31 PM org.example.ExceptionsFinalTask.Client.App startWork
+INFO: Запуск приложения
+мар. 24, 2024 8:07:31 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Запуск главного окна программы
+мар. 24, 2024 8:07:36 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Выбран режим ввода данных из файла
+мар. 24, 2024 8:07:36 PM org.example.ExceptionsFinalTask.View.FileInputView start
+INFO: Не успешная попытка загрузки данных
+мар. 24, 2024 8:07:36 PM org.example.ExceptionsFinalTask.View.FileInputView start
+INFO: Внесены данные из файла
+мар. 24, 2024 8:07:47 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: Открыта база данных
+мар. 24, 2024 8:07:51 PM org.example.ExceptionsFinalTask.Core.Controller.Controller startWork
+INFO: База данных сохранена>
